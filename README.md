@@ -1,1 +1,3 @@
-# rocketseat_gestao_vagas
+# Rocketseat - Gestão de Vagas
+
+Projeto da trilha de Java da Rocketseat
