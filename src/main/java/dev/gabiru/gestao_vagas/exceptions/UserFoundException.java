@@ -1,4 +1,4 @@
-package br.com.gabiru.gestao_vagas.exceptions;
+package dev.gabiru.gestao_vagas.exceptions;
 
 public class UserFoundException extends RuntimeException {
     public UserFoundException() {

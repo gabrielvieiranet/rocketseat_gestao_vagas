@@ -1,4 +1,4 @@
-package br.com.gabiru.gestao_vagas.modules.candidate;
+package dev.gabiru.gestao_vagas.modules.candidate;
 
 import java.util.Optional;
 import java.util.UUID;
